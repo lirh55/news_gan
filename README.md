@@ -1,0 +1,1 @@
+运行new_GAN.py即可，若不能运行则先运行processing_data.py
